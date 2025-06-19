@@ -1,8 +1,8 @@
 {
-  "name": "yachtzee-game",
+  "name": "yahtzee-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevin-pinkett.github.io/Yachtzee-Game",
+  "homepage": "https://kevin-pinkett.github.io/Yahtzee-Game",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
